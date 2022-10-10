@@ -1,0 +1,15 @@
+.container{
+    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0.1%;
+    background: linear-gradient(-135deg, #FF0000, #9A2EFE);
+    
+}
+margin{
+    background: linear-gradient(-135deg,#9A2EFE ,#FF0000 );
+}
